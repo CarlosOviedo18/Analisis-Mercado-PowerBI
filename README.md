@@ -1,3 +1,4 @@
+
 # Análisis de Mercado: Tostadores de Café de Costa Rica
 
 Proyecto de inteligencia de negocios que analiza **24 tostadores de café de Costa Rica**, evaluando su cumplimiento de requisitos, desempeño digital, alcance en redes sociales, precios y distribución geográfica. El análisis va desde la **organización de los datos en Excel**, pasa por un **modelo de datos y dashboard interactivo en Power BI**, y cierra con un **documento de conclusiones en Word**.
