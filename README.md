@@ -1,20 +1,20 @@
-# ☕ Análisis de Mercado: Tostadores de Café de Costa Rica
+# Análisis de Mercado: Tostadores de Café de Costa Rica
 
 Proyecto de inteligencia de negocios que analiza **24 tostadores de café de Costa Rica**, evaluando su cumplimiento de requisitos, desempeño digital, alcance en redes sociales, precios y distribución geográfica. El análisis va desde la **organización de los datos en Excel**, pasa por un **modelo de datos y dashboard interactivo en Power BI**, y cierra con un **documento de conclusiones en Word**.
 
 ---
 
-## 🔗 Dashboard en vivo
+## Dashboard en vivo
 
 Puedes explorar el dashboard interactivo aquí:
 
-**👉 [Ver dashboard en Power BI](https://app.powerbi.com/links/s4Mzs6Sz4a?ctid=1d2e59b7-fa25-4404-8b95-d02dd4b7cb98&pbi_source=linkShare)**
+** [Ver dashboard en Power BI](https://app.powerbi.com/links/s4Mzs6Sz4a?ctid=1d2e59b7-fa25-4404-8b95-d02dd4b7cb98&pbi_source=linkShare)**
 
 > _Nota: el dashboard se visualiza mejor desde un navegador de escritorio. Requiere conexión a internet para cargar el mapa._
 
 ---
 
-## 📊 ¿Qué responde este proyecto?
+## ¿Qué responde este proyecto?
 
 - ¿Qué empresas cumplen los requisitos del negocio y en qué nivel?
 - ¿Quiénes lideran en madurez digital y servicio al cliente?
@@ -24,7 +24,7 @@ Puedes explorar el dashboard interactivo aquí:
 
 ---
 
-## 🧭 Estructura del análisis
+## Estructura del análisis
 
 El proyecto se construyó en tres etapas, cada una con su propio entregable:
 
@@ -36,7 +36,7 @@ El proyecto se construyó en tres etapas, cada una con su propio entregable:
 
 ---
 
-## 🗂️ El modelo de datos
+## El modelo de datos
 
 Los datos están organizados en un **modelo estrella**, con una tabla central de empresas conectada a tablas de hechos (precios, redes sociales, desempeño) y dimensiones (región, variedad, proceso, tueste, tamaño).
 
@@ -45,7 +45,7 @@ Los datos están organizados en un **modelo estrella**, con una tabla central de
 
 ---
 
-## 🖥️ Páginas del dashboard
+## Páginas del dashboard
 
 A continuación, cada página del dashboard con su captura y una breve descripción.
 
@@ -99,7 +99,7 @@ Página final con el análisis de cumplimiento, los niveles de madurez y el rank
 
 ---
 
-## 📁 Contenido del repositorio
+## Contenido del repositorio
 
 ```
 ├── README.md
@@ -123,7 +123,7 @@ Página final con el análisis de cumplimiento, los niveles de madurez y el rank
 
 ---
 
-## 🛠️ Herramientas utilizadas
+## Herramientas utilizadas
 
 - **Microsoft Excel** — organización y limpieza de datos
 - **Microsoft Power BI** — modelo de datos, medidas DAX y dashboard interactivo
@@ -131,6 +131,6 @@ Página final con el análisis de cumplimiento, los niveles de madurez y el rank
 
 ---
 
-## 👤 Autor
+## Autor
 
 Carlos Oviedo Ballestero
